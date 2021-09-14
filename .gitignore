@@ -1,4 +1,2 @@
-_site/
-.sass-cache/
-.jekyll-cache/
-.jekyll-metadata
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
