@@ -22,8 +22,8 @@ title: Data Visualization & Sonification
 email: nathan.gammill@pcc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Course files and resources for MUC 261 at PCC
-baseurl: "/muc-261/"
-url: "https://staysh.github.io/muc-261"
+baseurl: "/muc-261"
+url: "https://staysh.github.io"
 twitter_username:
 github_username: staysh
 
