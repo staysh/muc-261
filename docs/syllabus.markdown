@@ -123,7 +123,7 @@ Each session per week will be almost entirely devoted to one of to areas: workin
 
 ### *Or perhaps a graphical display of the course flow...*
 
-![Hours dedicated to topics by week](./time-budget.png)
+![Hours dedicated to topics by week](./images/time-budget.png)
 
 ## A Note About Coding:
 
